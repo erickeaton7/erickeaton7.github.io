@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/erickeaton7.github.io/static/css/main.43703c07.css",
+    "main.js": "/erickeaton7.github.io/static/js/main.d6cb7e9e.js",
+    "index.html": "/erickeaton7.github.io/index.html",
+    "main.43703c07.css.map": "/erickeaton7.github.io/static/css/main.43703c07.css.map",
+    "main.d6cb7e9e.js.map": "/erickeaton7.github.io/static/js/main.d6cb7e9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43703c07.css",
+    "static/js/main.d6cb7e9e.js"
+  ]
+}
